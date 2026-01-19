@@ -1,7 +1,5 @@
 # Prudhvi Sai Ramisetti – Data Analyst Portfolio
 
-<div align="center">
-  <img src="https://github.com/prudhvi040/prudhvi.github.io/raw/main/profile.jpg" alt="Prudhvi Sai Ramisetti" width="180" style="border-radius: 50%; border: 4px solid #f48fb1;" />
   <br><br>
   <h3>Data Analyst | Python | SQL | Dashboards | Data Engineering Enthusiast</h3>
 </div>
